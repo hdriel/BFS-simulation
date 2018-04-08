@@ -1,0 +1,19 @@
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\BFS Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\BFS Algorithm.csproj.ResolveComReference.cache
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\Schedule.Form_Main.resources
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\Schedule.Properties.Resources.resources
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\BFS Algorithm.csproj.GenerateResource.Cache
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\Schedule.exe.config
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\Schedule.exe
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\Schedule.pdb
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\EPPlus.dll
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\ExcelDataReader.dll
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\EPPlus.xml
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\ExcelDataReader.xml
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\Schedule.exe
+C:\Users\Hadriel\Desktop\Graphs_Project\Schedule\obj\x86\Debug\Schedule.pdb
